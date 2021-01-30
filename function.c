@@ -1,4 +1,4 @@
-int square(int, int);
+int square(int);
 
 int square(int a)
 {
